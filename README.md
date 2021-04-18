@@ -1,5 +1,5 @@
 # Villes_de_france
-Entraînement requêtes SQL sur une base de donnée des villes de France
+Entraînement aux requêtes SQL sur une base de donnée des villes de France
  
 Obtenir la liste des 10 villes les plus peuplées en 2012
 
